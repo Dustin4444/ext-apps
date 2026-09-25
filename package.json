@@ -95,7 +95,7 @@
     "cors": "^2.8.5",
     "cross-env": "^10.1.0",
     "electron-to-chromium": "1.5.267",
-    "esbuild": "^0.25.12",
+    "esbuild": "^0.28.1",
     "express": "^5.1.0",
     "ext-apps-v1": "npm:@modelcontextprotocol/ext-apps@1.7.5",
     "husky": "^9.1.7",
